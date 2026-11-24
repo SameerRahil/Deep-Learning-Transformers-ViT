@@ -6,8 +6,10 @@ Project 4 of CS 437 Deep Learning, LUMS, Spring 2026. The first notebook builds 
 
 | Part | Notebook | What it covers |
 | --- | --- | --- |
-| 1. Transformer LM and ViT | [`1_transformer_lm_and_vit.ipynb`](notebooks/1_transformer_lm_and_vit.ipynb) | A tokenized movie-script dataset, multi-head attention, feedforward and encoder blocks, a trainer and text generation; then a Vision Transformer (patchifier, positional embeddings, attention, encoder) trained on MNIST with attention visualizations. |
-| 2. Attention variants and a hybrid ViT | [`2_attention_variants_and_hybrid_vit.ipynb`](notebooks/2_attention_variants_and_hybrid_vit.ipynb) | Top-k sparse attention, temperature-scaled attention (fixed and learned), CLS-token attention maps and entropy, a vanilla ViT against a hybrid with a CNN patch-embedding stem, and a patch-size sweep, all on CIFAR-10. |
+| 1. Transformer LM and ViT | [`1_transformer_lm_and_vit.ipynb`](notebooks/1_transformer_lm_and_vit.ipynb) ([nbviewer](https://nbviewer.org/github/SameerRahil/Deep-Learning-Transformers-ViT/blob/main/notebooks/1_transformer_lm_and_vit.ipynb)) | A tokenized movie-script dataset, multi-head attention, feedforward and encoder blocks, a trainer and text generation; then a Vision Transformer (patchifier, positional embeddings, attention, encoder) trained on MNIST with attention visualizations. |
+| 2. Attention variants and a hybrid ViT | [`2_attention_variants_and_hybrid_vit.ipynb`](notebooks/2_attention_variants_and_hybrid_vit.ipynb) ([nbviewer](https://nbviewer.org/github/SameerRahil/Deep-Learning-Transformers-ViT/blob/main/notebooks/2_attention_variants_and_hybrid_vit.ipynb)) | Top-k sparse attention, temperature-scaled attention (fixed and learned), CLS-token attention maps and entropy, a vanilla ViT against a hybrid with a CNN patch-embedding stem, and a patch-size sweep, all on CIFAR-10. |
+
+If GitHub cannot display a notebook, the nbviewer link next to it opens the same file.
 
 ## Results
 
